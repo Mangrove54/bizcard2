@@ -23,7 +23,7 @@ body{
     
     
 }
-.card-wrap:hover .card,{
+.card-wrap:hover .card{
     transform: rotateY(0deg);}
 .card
 {
