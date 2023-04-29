@@ -23,9 +23,8 @@ body{
     
     
 }
-.card-wrap:hover,.card{
-    transform: rotateY(180deg);
-}
+.card-wrap:hover .card,{
+    transform: rotateY(0deg);}
 .card
 {
     width: 550px;
